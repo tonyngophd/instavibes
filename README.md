@@ -3,7 +3,10 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url1]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url2]
+[![LinkedIn][linkedin-shield]][linkedin-url3]
 <!--ReactSkipperStart -->
 <br />
 <p align="center"  style='margin-top: -40px; margin-bottom: -10px;'>
@@ -184,4 +187,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [license-shield]: https://img.shields.io/github/license/suasllc/instavibes.svg?style=for-the-badge
 [license-url]: https://github.com/suasllc/instavibes/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/tony-ngo-suas/
+[linkedin-url]: https://www.linkedin.com/in/tony-ngo-m/
+[linkedin-url1]: https://www.linkedin.com/in/daniel-miller-970393178/
+[linkedin-url2]: https://www.linkedin.com/in/michael-jensen-636901169/
+[linkedin-url3]: https://www.linkedin.com/in/adam-faidy/

@@ -38,7 +38,6 @@ function App() {
   return (
     <BrowserRouter>
       <div className="homepage">
-        {/* <Footer /> */}
         <NavBar />
         {user &&
           <NewPostTab />
@@ -74,6 +73,7 @@ function App() {
                 </div>
                 <Suggestions />
               </div>
+              <Footer />
             </div>
           </ProtectedRoute>
           <ProtectedRoute path="/explore/tags/:hashtag">

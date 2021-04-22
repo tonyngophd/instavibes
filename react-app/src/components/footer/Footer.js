@@ -17,7 +17,7 @@ function Footer() {
           <li>
             <i className="fab fa-github icon2"></i>
             <a
-              href="https://github.com/suasllc/instavibes"
+              href="https://github.com/tonyngophd/instavibes"
               className="footer-a"
             >
               Github

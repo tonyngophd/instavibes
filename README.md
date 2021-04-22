@@ -10,7 +10,7 @@
 <!--ReactSkipperStart -->
 <br />
 <p align="center"  style='margin-top: -40px; margin-bottom: -10px;'>
-  <a href="https://github.com/suasllc/instavibes">
+  <a href="https://github.com/tonyngophd/instavibes">
     <img src="https://instavibes.s3.amazonaws.com/images/InstaVibes2.png" alt="Logo" width="160" height="60" style="object-fit: contain">
   </a>
 
@@ -18,14 +18,14 @@
     <b>Instavibes</b> is a social networking application modeled and inspired by <i>Instagram</i>
     <br />
     <br />
-    <a href="https://github.com/suasllc/instavibes/wiki"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/tonyngophd/instavibes/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://instavibes.herokuapp.com/">View Demo/Live</a>
     ·
-    <a href="https://github.com/suasllc/instavibes/issues">Report Bug</a>
+    <a href="https://github.com/tonyngophd/instavibes/issues">Report Bug</a>
     ·
-    <a href="https://github.com/suasllc/instavibes/issues">Request Feature</a>
+    <a href="https://github.com/tonyngophd/instavibes/issues">Request Feature</a>
   </p>
 </p>
 
@@ -110,7 +110,7 @@ Install npm on your local computer
 1. Clone this repository (only this branch)
 
    ```bash
-   git clone https://github.com/suasllc/instavibes.git
+   git clone https://github.com/tonyngophd/instavibes.git
    ```
 
 2. Install dependencies
@@ -119,7 +119,7 @@ Install npm on your local computer
       pipenv install --dev -r dev-requirements.txt && pipenv install -r requirements.txt
       ```
 
-3. [Further steps here](https://github.com/suasllc/instavibes/wiki/Installation-Details)
+3. [Further steps here](https://github.com/tonyngophd/instavibes/wiki/Installation-Details)
 
 ## Usage
 <!--ReactSkipperStart -->
@@ -138,13 +138,13 @@ Install npm on your local computer
 
 <!--ReactSkipperEnd -->
 
-_For more examples, please refer to the [Documentation](https://github.com/suasllc/instavibes/wiki)_
+_For more examples, please refer to the [Documentation](https://github.com/tonyngophd/instavibes/wiki)_
 
 
 
 ## Roadmap
 
-See the [open issues](https://github.com/suasllc/instavibes/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/tonyngophd/instavibes/issues) for a list of proposed features (and known issues).
 
 
 
@@ -176,16 +176,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/suasllc/instavibes.svg?style=for-the-badge
-[contributors-url]: https://github.com/suasllc/instavibes/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/suasllc/instavibes.svg?style=for-the-badge
-[forks-url]: https://github.com/suasllc/instavibes/network/members
-[stars-shield]: https://img.shields.io/github/stars/suasllc/instavibes.svg?style=for-the-badge
-[stars-url]: https://github.com/suasllc/instavibes/stargazers
-[issues-shield]: https://img.shields.io/github/issues/suasllc/instavibes.svg?style=for-the-badge
-[issues-url]: https://github.com/suasllc/instavibes/issues
-[license-shield]: https://img.shields.io/github/license/suasllc/instavibes.svg?style=for-the-badge
-[license-url]: https://github.com/suasllc/instavibes/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/tonyngophd/instavibes.svg?style=for-the-badge
+[contributors-url]: https://github.com/tonyngophd/instavibes/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/tonyngophd/instavibes.svg?style=for-the-badge
+[forks-url]: https://github.com/tonyngophd/instavibes/network/members
+[stars-shield]: https://img.shields.io/github/stars/tonyngophd/instavibes.svg?style=for-the-badge
+[stars-url]: https://github.com/tonyngophd/instavibes/stargazers
+[issues-shield]: https://img.shields.io/github/issues/tonyngophd/instavibes.svg?style=for-the-badge
+[issues-url]: https://github.com/tonyngophd/instavibes/issues
+[license-shield]: https://img.shields.io/github/license/tonyngophd/instavibes.svg?style=for-the-badge
+[license-url]: https://github.com/tonyngophd/instavibes/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tony-ngo-m/
 [linkedin-url1]: https://www.linkedin.com/in/daniel-miller-970393178/

@@ -38,7 +38,6 @@ function App() {
   return (
     <BrowserRouter>
       <div className="homepage">
-        {/* <Footer /> */}
         <NavBar />
         {user &&
           <NewPostTab />
@@ -46,9 +45,11 @@ function App() {
         <Switch>
           <Route path="/login" exact={true}>
             <LoginForm />
+            <Footer />
           </Route>
           <Route path="/sign-up" exact={true}>
             <SignUpForm />
+            <Footer />
           </Route>
           <ProtectedRoute path="/users" exact={true}>
             <UsersList />
@@ -81,20 +82,25 @@ function App() {
           </ProtectedRoute>
           <ProtectedRoute exact path="/:username">
             <ProfilePage tagged={false} />
+            <Footer />
           </ProtectedRoute>
           <ProtectedRoute path="/:username/tagged">
             <ProfilePage tagged={true} />
+            <Footer />
           </ProtectedRoute>
           <ProtectedRoute path="/:username/liked">
             <ProfilePage liked={true} />
+            <Footer />
           </ProtectedRoute>
           <ProtectedRoute path="/:username/saved">
             <ProfilePage saved={true} />
+            <Footer />
           </ProtectedRoute>
           <ProtectedRoute path="/stories/:username">
             <StoriesFullPage />
           </ProtectedRoute>
         </Switch>
+
       </div>
     </BrowserRouter>
   );

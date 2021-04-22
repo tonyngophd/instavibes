@@ -15,7 +15,6 @@
   border-top: 1px solid black;
   border-bottom: 1px solid black;
   border-left: 1px solid black;
-  border-radius: 5px;
   height: 100%;
 }
 .message-page-left-panel {
@@ -23,6 +22,8 @@
   display: flex;
   flex-direction: column;
   border: 1px solid black;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
 }
 .message-page-right-panel {
   /* border-left: 1px solid gray;
@@ -32,6 +33,8 @@
   flex-direction: column;
   justify-content: space-between;
   border: 1px solid black;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
 }
 
 .top-left-div,
@@ -52,6 +55,7 @@
 }
 .main-left-div {
   display: flex;
+  height: 100%;
   flex-direction: column;
   align-items: flex-start;
   overflow-y: scroll;
@@ -128,6 +132,7 @@
   align-items: center;
   width: 100%;
   height: 100%;
+  background-color: white;
 }
 .title-and-button-message-box-div {
   display: flex;
@@ -189,5 +194,6 @@
 }
 
 .durp {
-  background: linear-gradient(to right, #4e4376, #2b5876);
+  /* background: linear-gradient(to right, #4e4376, #2b5876); */
+  background-color: white;
 }

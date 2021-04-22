@@ -4,37 +4,45 @@ function Footer() {
   return (
     <div className="footer-div">
       <div className="footer-wrapper">
-        <h1 className="footer-logo" href="/">
+        {/* <h1 className="footer-logo" href="/">
           Instavibes
-        </h1>
+        </h1> */}
         <ul className="footer-ul">
           <li>
-            <i className="fas fa-home icon2"></i>
-            <a href="/" className="footer-a">
-              Home
+            <img src="/images/tony.png">
+            </img>
+            <a href="https://github.com/tonyngophd/instavibes"
+              className="footer-a">
+              Tony
             </a>
           </li>
           <li>
-            <i className="fab fa-github icon2"></i>
-            <a
-              href="https://github.com/tonyngophd/instavibes"
-              className="footer-a"
-            >
-              Github
+            <img src="/images/daniel.png">
+            </img>
+            <a href="https://github.com/tonyngophd/instavibes"
+              className="footer-a">
+              Daniel
             </a>
           </li>
           <li>
-            <i className="fab fa-linkedin icon2"></i>
-            <a
-              href="https://www.linkedin.com/in/adam-faidy-bb8784105/"
-              className="footer-a"
-            >
-              LinkedIn
+            <img src="/images/Selfie.jpg">
+            </img>
+            <a href="https://github.com/tonyngophd/instavibes"
+              className="footer-a">
+              Michael
+            </a>
+          </li>
+          <li>
+            <img src="/images/adam.jpg">
+            </img>
+            <a href="https://github.com/tonyngophd/instavibes"
+              className="footer-a">
+              Adam
             </a>
           </li>
         </ul>
       </div>
-    </div>
+    </div >
   );
 }
 

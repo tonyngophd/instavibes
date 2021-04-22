@@ -129,7 +129,7 @@ Install npm on your local computer
    <summary>Message and Stories</summary>   
    <div style="display: flex">
       <!-- <div style='display: flex; flex-direction: column; width="40%"'> -->
-         <img src="./resources/messaging.png" width="32%" height="30%" style="margin: 5px"/>
+         <img src="./resources/messaging.png" width="43%" height="30%" style="margin: 5px"/>
          <img src="./resources/stories.png" width="43%" height="30%" style="margin: 5px"/>
       <!-- </div> -->
    <div>
